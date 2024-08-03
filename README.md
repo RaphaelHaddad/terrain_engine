@@ -1,4 +1,4 @@
-# Computer Graphics: Project 2 - Terrain Engine
+# Computer Graphics: Terrain Engine
 
 ## Overview
 This project involves constructing a 3D scene that includes a sky, moving water, and an island. The main goals and tasks of the project include:
