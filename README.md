@@ -45,6 +45,7 @@ The island is placed in the sea by discarding pixels below the water level in th
 
 ## Implementing an Accelerating Camera
 The camera class is modified to include `minimumSpeed`, `maximumSpeed`, and `acceleration` parameters. The movement speed increases towards `maximumSpeed` when the same key is pressed for several frames and resets when another key is pressed.
+<img width="1279" alt="image" src="https://github.com/user-attachments/assets/e2b90c82-41c0-4d2b-bb22-e9230379c143" />
 
 ## Tutorial
 The code is developed and tested on a MacBook Air M2. To run the model, ensure `glad`, `glfw`, and `glm-master` are in your repository. Update paths in `CMakeLists.txt` and `variables.h`.
